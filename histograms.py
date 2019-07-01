@@ -1,3 +1,7 @@
+# YOU HAVE BEEN HACKED BY NICK
+# SURRENDER NOW OR YOU WILL
+# BE TURNED IN FOR COUNTERFEIT
+
 import matplotlib.pyplot as plt
  ## plt is a shortened version of matplotlib.pyplot
 popul_ages = [22, 33, 45, 64, 77, 84, 127, 12, 43, 45, 52, 45, 80, 52, 23, 57, 36, 70, 80, 23, 12, 34, 56, 78, 29]
