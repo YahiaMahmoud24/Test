@@ -1,3 +1,7 @@
+# YOU HAVE BEEN HACKED BY NICK
+# SURRENDER NOW OR YOU WILL
+# BE TURNED IN FOR COUNTERFEIT
+
 import matplotlib.pyplot as plt
  ## plt is a shortened version of matplotlib.pyplot
 x = [2,4,6,8,10]
