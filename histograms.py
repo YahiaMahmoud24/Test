@@ -1,13 +1,9 @@
 import matplotlib.pyplot as plt
  ## plt is a shortened version of matplotlib.pyplot
-x = [2,4,6,8,10]
-y = [6,7,8,2,4]
-
-x2 = [1,3,5,7,9]
-y2 = [7,8,2,4,2]
-plt.bar(x, y, label = 'Bars 1', color = 'blue')
-plt.bar(x2, y2, label = 'Bars 2', color = 'red')
-
+popul_ages = [22, 33, 45, 64, 77, 84, 127, 12, 43, 45, 52, 45, 80, 52, 23, 57, 36, 70, 80, 23, 12, 34, 56, 78, 29]
+#ids = [x for x in range(len(popul_ages))]
+bins  =[0, 10, 20 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130] ## condenses data
+plt.hist(popul_ages, bins, histtype = 'bar', rwidth = 0.8)
 # creating legends, titles, and lables
 # Titles and labels
 plt.xlabel('x') ## labels x-coordinate
